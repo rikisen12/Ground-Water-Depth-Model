@@ -1,4 +1,4 @@
-# GROUND WATER DEPTH PREDICTION USING NEURAL NETWORK AND DNN MODEL
+# GROUND WATER DEPTH PREDICTION USING ML AND DNN MODEL
 
 ### This project predicts the Stage of Ground Water Extraction (%) using machine learning models: a Random Forest Regressor and a Deep Neural Network (DNN). The dataset contains features such as state, district, and other numeric values, preprocessed to build predictive models.
 
